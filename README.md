@@ -7,12 +7,20 @@ I'm a **Data Analyst (primary focus)** and a **Data Analytics & AI Engineer**, w
   <a href="mailto:mazenhabib007@gmail.com">
     <img src="https://img.shields.io/badge/Email-mazenhabib007%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <!-- Replace # with your GitHub profile URL if needed -->
   <a href="https://github.com/Mazen-Habib">
     <img src="https://img.shields.io/badge/GitHub-Mazen--Habib-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Replace # with your LinkedIn URL when ready -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <!-- Replace # with your LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/mazen-habib-496014294/">
+    <img src="https://img.shields.io/badge/LinkedIn-Add%20Link%20Later-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Replace # with your Instagram URL -->
+  <a href="https://www.instagram.com/mazenhabib0/">
+    <img src="https://img.shields.io/badge/Instagram-Add%20Link%20Later-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
