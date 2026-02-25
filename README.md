@@ -7,7 +7,7 @@ I'm a **Data Analyst (primary focus)** and a **Data Analytics & AI Engineer**, w
 - 🔗 LinkedIn: *(coming soon)*
 
 ## About Me
-**Being a Data Analyst and AI Engineer**—I enjoy transforming raw data into clear insights, dashboards, and decision-ready stories. Beyond analytics, I also have strong expertise in **development and design**, building solutions that are both **functional and user-friendly**. **UI/UX** is a core interest of mine, and I’m continuously expanding my skills across the stack (backend + frontend) to broaden my overall expertise.
+**Being a Data Analyst and AI Engineer**, I enjoy transforming raw data into clear insights, dashboards, and decision-ready stories. Beyond analytics, I also have strong expertise in **development and design**, building solutions that are both **functional and user-friendly**. **UI/UX** is a core interest of mine, and I’m continuously expanding my skills across the stack (backend + frontend) to broaden my overall expertise.
 
 ## Tools & Technologies
 
