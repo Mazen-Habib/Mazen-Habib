@@ -1,6 +1,6 @@
 # Hi, I'm Mazen Habib 👋
 
-I'm a **Data Analyst (primary focus)** and a **Data Analytics & AI Engineer**, with interests across **backend**, **frontend**, and **data engineering**.
+I'm a **Data Analyst (primary focus)** and a **AI Engineer**, with interests across **backend**, **frontend**, and **data engineering**.
 
 ## Connect with me
 <p align="left">
