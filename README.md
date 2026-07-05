@@ -134,9 +134,8 @@ Now I build end-to-end **AI systems**: local RAG agents, LLM-powered workflows, 
 
 <div align="center">
 
-![Mazen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mazen-Habib&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-Habib&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<img src="https://github-readme-stats.vercel.app/api?username=Mazen-Habib&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Mazen's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-Habib&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
 
 </div>
 
@@ -144,7 +143,7 @@ Now I build end-to-end **AI systems**: local RAG agents, LLM-powered workflows, 
 
 <div align="center">
 
-*Open to remote AI Engineer and Data Analyst roles globally*
+*Open to remote AI Engineer and Data Analyst roles globally*<br/>
 **mazenhabib007@gmail.com**
 
 </div>
