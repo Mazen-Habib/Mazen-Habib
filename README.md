@@ -18,7 +18,7 @@
 
 ## About Me
 
-I started as a **Data Analyst** — building Power BI dashboards, Fabric pipelines, and BI systems for enterprise clients like **ACWA Power (Saudi Arabia)**. Then I got obsessed with automation and AI.
+I started as a **Designer** and then **Data Analyst** — building Power BI dashboards, Fabric pipelines, and BI systems for enterprise clients like **ACWA Power (Saudi Arabia)**. Then I got obsessed with automation and AI.
 
 Now I build end-to-end **AI systems**: local RAG agents, LLM-powered workflows, OCR/NLP pipelines, and agentic automations using **n8n, Python, and LangChain**. I also do **full-stack web and mobile development** with **React, Next.js, and React Native** — so I can take a product from data layer to deployed app.
 
