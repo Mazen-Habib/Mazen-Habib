@@ -18,9 +18,9 @@
 
 ## About Me
 
-I started as a **Designer** and then **Data Analyst** — building Power BI dashboards, Fabric pipelines, and BI systems for enterprise clients like **ACWA Power (Saudi Arabia)**. Then I got obsessed with automation and AI.
+I started as a **Designer** and then **Data Analyst** — building Power BI dashboards, Fabric pipelines, and BI systems for enterprise clients like **ACWA Power (Saudi Arabia)**. Then I got obsessed with turning complex data and business processes into simple, useful products.
 
-Now I build end-to-end **AI systems**: local RAG agents, LLM-powered workflows, OCR/NLP pipelines, and agentic automations using **n8n, Python, and LangChain**. I also do **full-stack web and mobile development** with **React, Next.js, and React Native** — so I can take a product from data layer to deployed app.
+Now I build end-to-end **AI systems**: local RAG agents, LLM-powered workflows, OCR/NLP pipelines, and agentic automations using **n8n, Python, and LangChain**. I also do **full-stack web and mobile development** with a strong focus on practical user experiences.
 
 - 🤖 Currently: **AI Engineer** at **IntegCubes** — building RAG agents, AI chatbots, and automation pipelines
 - 📊 Background: **Data Analyst** — Microsoft Fabric, Power BI, Medallion Architecture, SQL
@@ -91,7 +91,7 @@ Now I build end-to-end **AI systems**: local RAG agents, LLM-powered workflows, 
 ---
 
 ### 💬 iMessage + GHL Marketplace Integration
-> Built a custom Apple iMessage channel integration and published it as an app on the GoHighLevel Marketplace. Full two-way messaging (text, media, voice memos, tapbacks) bridged via n8n and the DCMessage API into GHL CRM.
+> Built a custom Apple iMessage channel integration and published it as an app on the GoHighLevel Marketplace. Full two-way messaging — including text, media, voice memos, and tapbacks — bridged through n8n and the DCMessenger API.
 
 `n8n` `Python` `GoHighLevel API` `LeadConnectorHQ API` `Webhooks` `Loop Message`
 
@@ -130,14 +130,29 @@ Now I build end-to-end **AI systems**: local RAG agents, LLM-powered workflows, 
 
 ---
 
-## GitHub Stats
+## What I Build
 
-<div align="center">
+I turn complex business problems into practical, production-ready systems:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mazen-Habib&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Mazen's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-Habib&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+| Focus | What I Build |
+|------|--------------|
+| 🤖 **AI Systems** | Private RAG agents, document intelligence, LLM workflows, and AI chatbots |
+| ⚙️ **Automation** | n8n and API-driven workflows that reduce repetitive manual work |
+| 📊 **Data Solutions** | Fabric pipelines, Power BI dashboards, SQL analytics, and medallion architectures |
+| 🌐 **Digital Products** | Full-stack web and mobile applications with modern cloud backends |
 
-</div>
+## Engineering Principles
+
+- **Privacy first** — keeping sensitive business data secure with local and controlled AI systems
+- **Business impact** — building solutions that save time, reduce errors, and improve decision-making
+- **Production mindset** — designing reliable workflows instead of one-off demos
+- **Continuous learning** — exploring agentic AI, cloud infrastructure, and emerging developer tools
+
+## Let's Build Something Useful
+
+Have a repetitive process, messy data, or an AI idea that needs to become real?
+
+📩 **Let's connect:** [mazenhabib007@gmail.com](mailto:mazenhabib007@gmail.com)
 
 ---
 
