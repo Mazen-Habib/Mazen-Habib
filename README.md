@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="520" alt="Animated coding loop" />
+
 # Hi, I'm Mazen Habib 👋
 
 ### AI Engineer · Data Analyst · Full-Stack Developer
@@ -14,7 +16,11 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700" alt="Animated gradient divider" />
+
+</div>
 
 ## About Me
 
@@ -28,6 +34,15 @@ Now I build end-to-end **AI systems**: local RAG agents, LLM-powered workflows, 
 - 🚀 Published: Custom **iMessage integration on the GHL Marketplace**
 - 🎓 Studying: **BSc Computer Science** at Bahria University + **Agentic AI & Cloud Computing** at AIR University
 - 📫 Reach me: **mazenhabib007@gmail.com**
+
+## What I Build
+
+| Focus | What I Build |
+|------|--------------|
+| 🤖 **AI Systems** | Private RAG agents, document intelligence, LLM workflows, and AI chatbots |
+| ⚙️ **Automation** | n8n and API-driven workflows that reduce repetitive manual work |
+| 📊 **Data Solutions** | Fabric pipelines, Power BI dashboards, SQL analytics, and medallion architectures |
+| 🌐 **Digital Products** | Full-stack web and mobile applications with modern cloud backends |
 
 ---
 
@@ -130,17 +145,6 @@ Now I build end-to-end **AI systems**: local RAG agents, LLM-powered workflows, 
 
 ---
 
-## What I Build
-
-I turn complex business problems into practical, production-ready systems:
-
-| Focus | What I Build |
-|------|--------------|
-| 🤖 **AI Systems** | Private RAG agents, document intelligence, LLM workflows, and AI chatbots |
-| ⚙️ **Automation** | n8n and API-driven workflows that reduce repetitive manual work |
-| 📊 **Data Solutions** | Fabric pipelines, Power BI dashboards, SQL analytics, and medallion architectures |
-| 🌐 **Digital Products** | Full-stack web and mobile applications with modern cloud backends |
-
 ## Engineering Principles
 
 - **Privacy first** — keeping sensitive business data secure with local and controlled AI systems
@@ -154,9 +158,9 @@ Have a repetitive process, messy data, or an AI idea that needs to become real?
 
 📩 **Let's connect:** [mazenhabib007@gmail.com](mailto:mazenhabib007@gmail.com)
 
----
-
 <div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="300" alt="Perfect loop animation" />
 
 *Open to remote AI Engineer and Data Analyst roles globally*<br/>
 **mazenhabib007@gmail.com**
