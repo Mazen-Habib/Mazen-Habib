@@ -15,32 +15,8 @@
 <a href="https://www.behance.net/mazenhabib1"><img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=F472B6" /></a>
 <a href="https://www.instagram.com/mazenhabib0/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6" /></a>
 
-</div>
 
-<!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="34" /> `whoami`
 
-```python
-class MazenHabib:
-    origin   = "Designer"          # pixels first
-    then     = "Data Analyst"      # Fabric, Power BI, ACWA Power 🇸🇦
-    now      = "AI Engineer @ IntegCubes"
-
-    builds = [
-        "private RAG agents on in-house GPUs",
-        "LLM workflows & AI chatbots",
-        "OCR + NLP document pipelines",
-        "n8n automations that kill busywork",
-        "web & mobile apps people enjoy",
-    ]
-
-    shipped  = "iMessage app on the GHL Marketplace"
-    studying = ["BSc CS @ Bahria",
-                "Agentic AI & Cloud @ AIR University"]
-
-    def motto(self):
-        return "Make complex things feel simple."
-```
 
 <!-- ═══════════════════════════════  JOURNEY  ═══════════════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="34" /> The Journey
