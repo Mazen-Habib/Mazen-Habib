@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/34409746/README.md)
 <!-- ═══════════════════════════════  HERO  ═══════════════════════════════ -->
 <div align="center">
 
@@ -13,18 +14,11 @@
 <a href="https://www.linkedin.com/in/mazen-habib-496014294/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="https://www.behance.net/mazenhabib1"><img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=F472B6" /></a>
 <a href="https://www.instagram.com/mazenhabib0/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6" /></a>
-<img src="https://komarev.com/ghpvc/?username=Mazen-Habib&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-
 <!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="34" /> `whoami`
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 ```python
 class MazenHabib:
@@ -47,17 +41,6 @@ class MazenHabib:
     def motto(self):
         return "Make complex things feel simple."
 ```
-
-</td>
-<td width="42%" valign="middle" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="100%" alt="Designer meets developer" />
-
-<sub><i>a designer who learned to ship code —<br/>and never stopped caring how it looks.</i></sub>
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════════════  JOURNEY  ═══════════════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="34" /> The Journey
@@ -89,8 +72,6 @@ flowchart LR
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-
 <!-- ═══════════════════════════════  SIGNATURE BUILD  ═══════════════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="34" /> Signature Build — Local RAG Agent
 
@@ -105,8 +86,7 @@ flowchart LR
 
 <table>
 <tr>
-<td width="38%" align="center"><img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="100%" /></td>
-<td width="62%" valign="middle">
+<td width="50%" valign="top">
 
 ### 💬 iMessage × GHL Marketplace
 A custom **Apple iMessage channel** published as an app on the GoHighLevel Marketplace. Full two-way messaging — text, media, voice memos, even tapbacks — bridged through n8n and the DCMessenger API.
@@ -114,9 +94,7 @@ A custom **Apple iMessage channel** published as an app on the GoHighLevel Marke
 `n8n` `Python` `GHL API` `LeadConnectorHQ` `Webhooks` `Loop Message`
 
 </td>
-</tr>
-<tr>
-<td width="62%" valign="middle">
+<td width="50%" valign="top">
 
 ### 📊 ACWA Power — Fabric + Power BI
 End-to-end **Microsoft Fabric** pipeline on a Medallion Architecture (🥉 Bronze → 🥈 Silver → 🥇 Gold) feeding interactive Power BI dashboards for one of Saudi Arabia's largest energy enterprises.
@@ -124,11 +102,9 @@ End-to-end **Microsoft Fabric** pipeline on a Medallion Architecture (🥉 Bronz
 `Fabric` `Power BI` `DAX` `SQL` `Lakehouse` `Medallion`
 
 </td>
-<td width="38%" align="center"><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100%" /></td>
 </tr>
 <tr>
-<td width="38%" align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" /></td>
-<td width="62%" valign="middle">
+<td width="50%" valign="top">
 
 ### 🚗 Dealership CRM Autopilot
 n8n + GHL automation suite: lead capture, intelligent routing, follow-up sequences and pipeline sync. **Hours of daily manual work → zero.**
@@ -136,9 +112,7 @@ n8n + GHL automation suite: lead capture, intelligent routing, follow-up sequenc
 `n8n` `GoHighLevel` `Webhooks` `Workflow Orchestration`
 
 </td>
-</tr>
-<tr>
-<td width="62%" valign="middle">
+<td width="50%" valign="top">
 
 ### 🧠 OCR + NLP Document Intelligence
 Pulls structured data out of messy, unstructured enterprise documents at scale and feeds it straight into downstream AI workflows and business systems.
@@ -146,18 +120,13 @@ Pulls structured data out of messy, unstructured enterprise documents at scale a
 `Python` `OCR` `NLP` `LLMs` `API Integration`
 
 </td>
-<td width="38%" align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="100%" /></td>
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
 <!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="34" /> Arsenal
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="260" alt="Floating tech stack" />
 
 <table>
 <tr><td align="center" width="160"><b>🤖 AI / Automation</b></td><td>
