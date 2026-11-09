@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34409746/README.md)
+[README.md](https://github.com/user-attachments/files/34576487/README.md)
 <!-- ═══════════════════════════════  HERO  ═══════════════════════════════ -->
 <div align="center">
 
@@ -15,47 +15,7 @@
 <a href="https://www.behance.net/mazenhabib1"><img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=F472B6" /></a>
 <a href="https://www.instagram.com/mazenhabib0/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6" /></a>
 
-
-
-
-<!-- ═══════════════════════════════  JOURNEY  ═══════════════════════════════ -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="34" /> The Journey
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B0F19','primaryTextColor':'#E6EDF3','primaryBorderColor':'#A78BFA','lineColor':'#22D3EE','fontFamily':'monospace'}}}%%
-flowchart LR
-    A("🎨 <b>Designer</b><br/>Figma · Adobe"):::d --> B("⚖️ <b>Legistech</b><br/>Founding Partner<br/>2023"):::s
-    B --> C("⚙️ <b>BadAaaS</b><br/>Automation Dev<br/>2024"):::s
-    C --> D("🔁 <b>Scaling Squad</b><br/>CRM Automation<br/>2024"):::s
-    D --> E("📊 <b>IntegCubes</b><br/>Data Analyst<br/>2025"):::s
-    E --> F("🤖 <b>IntegCubes</b><br/>AI Engineer<br/>2026 → now"):::n
-    classDef d fill:#1a1030,stroke:#F472B6,stroke-width:2px,color:#F9A8D4
-    classDef s fill:#0B0F19,stroke:#A78BFA,stroke-width:1px,color:#E6EDF3
-    classDef n fill:#062a33,stroke:#22D3EE,stroke-width:3px,color:#67E8F9
-```
-
-<details>
-<summary><b>📜 Full experience log</b></summary>
-<br/>
-
-| Role | Company | Period |
-|------|---------|--------|
-| 🤖 AI Engineer | IntegCubes | Jan 2026 – Present |
-| 📊 Data Analyst | IntegCubes | Jan 2025 – Jan 2026 |
-| 🔁 CRM Automation Engineer | Scaling Squad | Jul 2024 – Jan 2025 |
-| ⚙️ Automation Developer | BadAaaS | Jan 2024 – Jun 2024 |
-| ⚖️ Founding Partner | Legistech | Feb 2023 – Jan 2024 |
-
-</details>
-
-<!-- ═══════════════════════════════  SIGNATURE BUILD  ═══════════════════════════════ -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="34" /> Signature Build — Local RAG Agent
-
-<div align="center">
-<img src="./assets/rag-pipeline.svg" width="100%" alt="Animated RAG pipeline: documents → OCR → embeddings → vector DB → local LLM → answer" />
 </div>
-
-> Private, on-premise knowledge retrieval running on an in-house GPU workstation with **Ollama**. Enterprise documents go in, cited answers come out — and **not a single byte leaves the network**.
 
 <!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="34" /> Featured Work
@@ -160,22 +120,8 @@ Pulls structured data out of messy, unstructured enterprise documents at scale a
 
 </div>
 
-<!-- ═══════════════════════════════  PRINCIPLES  ═══════════════════════════════ -->
-## 🧭 How I Build
-
-<table>
-<tr>
-<td align="center" width="25%">🔒<br/><b>Privacy first</b><br/><sub>Sensitive data stays on hardware you control.</sub></td>
-<td align="center" width="25%">📈<br/><b>Business impact</b><br/><sub>Saved hours and fewer errors, not vanity demos.</sub></td>
-<td align="center" width="25%">🏭<br/><b>Production mindset</b><br/><sub>Reliable workflows that survive Monday morning.</sub></td>
-<td align="center" width="25%">🧪<br/><b>Always learning</b><br/><sub>Agentic AI, cloud, and whatever ships next.</sub></td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════  CTA / FOOTER  ═══════════════════════════════ -->
+<!-- ═══════════════════════════════  CTA  ═══════════════════════════════ -->
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="420" alt="pacman" />
 
 ### Got a repetitive process, messy data, or an AI idea that needs to become real?
 
@@ -184,7 +130,5 @@ Pulls structured data out of messy, unstructured enterprise documents at scale a
 </a>
 
 <sub>🌍 Open to remote <b>AI Engineer</b> & <b>Data Analyst</b> roles worldwide</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:F472B6&height=140&section=footer&text=thanks%20for%20scrolling&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" />
 
 </div>
