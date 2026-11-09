@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34576487/README.md)
+[Uploading README (1).md…]()
 <!-- ═══════════════════════════════  HERO  ═══════════════════════════════ -->
 <div align="center">
 
@@ -99,24 +99,6 @@ Pulls structured data out of messy, unstructured enterprise documents at scale a
 
 </td></tr>
 </table>
-
-</div>
-
-<!-- ═══════════════════════════════  STATS  ═══════════════════════════════ -->
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="34" /> Telemetry
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mazen-Habib&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E6EDF3&ring_color=7C3AED&rank_icon=github&count_private=true" height="170" />
-<img src="https://streak-stats.demolab.com?user=Mazen-Habib&hide_border=true&background=0D1117&ring=7C3AED&fire=F472B6&currStreakLabel=22D3EE&sideLabels=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" height="170" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazen-Habib&bg_color=0D1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20pulse" width="100%" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mazen-Habib/Mazen-Habib/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mazen-Habib/Mazen-Habib/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mazen-Habib/Mazen-Habib/output/github-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
